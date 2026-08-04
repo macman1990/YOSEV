@@ -112,7 +112,7 @@ export const arMessages = {
         title: "Meccha Chameleon — مونتاج فيديو جيمينج ترفيهي",
         body: "مونتاج فيديو جيمينج يعتمد على إيقاع سريع، Cut Zooms، مؤثرات صوتية، Subtitles ديناميكية، وانتقالات تضيف طابعًا كوميديًا وتحافظ على تفاعل المشاهد طوال الفيديو.",
         tech: ["CapCut", "Premiere Pro", "Motion Captions"],
-        videoId: "EQJTouzAkE",
+        videoId: "-EQJTouzAkE",
       },
       {
         category: " 📱 محتوى قصير",

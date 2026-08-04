@@ -112,7 +112,7 @@ export const enMessages = {
         title: "Meccha Chameleon — Gaming Entertainment Edit",
         body: "A fast-paced gaming edit featuring dynamic cuts, comedic timing, sound effects, animated subtitles, and smooth transitions designed to maximize viewer engagement and retention.",
         tech: ["CapCut", "Premiere Pro", "Motion Captions"],
-        videoId: "EQJTouzAkE",
+        videoId: "-EQJTouzAkE",
       },
       {
         category: "📱 Short-form Content",
